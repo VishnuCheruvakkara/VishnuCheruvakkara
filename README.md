@@ -64,7 +64,7 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 | LinkedIn | Email | Portfolio |
 |----------|-------|-----------|
-| <a href="https://www.linkedin.com/in/vishnu-cheruvakkara-231b8b235"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://github.com/VishnuCheruvakkara"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> |
+| <a href="https://www.linkedin.com/in/vishnu-cheruvakkara-231b8b235"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://vishnu-cheruvakkara-portfolio.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> |
 
 ---
 
