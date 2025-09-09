@@ -38,16 +38,13 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
   <img src="https://streak-stats.demolab.com/?user=VishnuCheruvakkara&theme=default&border_radius=5" alt="GitHub Streak" height="160"/>
 </p>
 
-
-
-
 ---
 
 ## 📫 Connect with Me  
 
 | LinkedIn | Email | Portfolio |
 |----------|-------|-----------|
-| <a href="https://linkedin.com/in/your-profile"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnu@example.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://github.com/VishnuCheruvakkara"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> |
+| <a href="https://www.linkedin.com/in/vishnu-cheruvakkara-231b8b235"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://github.com/VishnuCheruvakkara"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> |
 
 ---
 
