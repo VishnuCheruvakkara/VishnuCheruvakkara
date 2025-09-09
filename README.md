@@ -30,16 +30,16 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 ---
 
-## 📌 Featured Projects  
+## 🚀 Featured Projects  
 
-### 🚴 Cycular – Cycle E-Commerce Platform  
-🛒 Categories, filters, user authentication (OTP + Google Login), admin & user dashboards.  
-
-### 💬 ChatUp – Real-Time Chat Application  
-⚡ Built with **Django REST, PostgreSQL, WebSockets, and Redis**.  
-
-### 🛍️ E-Commerce Prototype  
-🧩 End-to-end shopping platform with cart, orders, reviews, payments, and deployment-ready setup.  
+<p align="center">
+  <a href="https://github.com/VishnuCheruvakkara/Cycular">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuCheruvakkara&repo=Cycular&theme=default" />
+  </a>
+  <a href="https://github.com/VishnuCheruvakkara/ChatUp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuCheruvakkara&repo=ChatUp&theme=default" />
+  </a>
+</p>
 
 ---
 
