@@ -14,7 +14,7 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
   <a href="https://instagram.com/your-instagram" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://youtube.com/your-youtube" target="_blank">
+  <a href="https://youtube.com/@8.0learnuptoinfinity?si=AgmONeppEN5G0kPz" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   <a href="mailto:vishnucheruvakkaraofficial@gmail.com" target="_blank">
