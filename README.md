@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Vishnu Cheruvakkara  
+# Hello world!, I'm Vishnu Cheruvakkara  
 
 💻 **Full Stack Developer | Python & Django Specialist | API Enthusiast**  
 
@@ -7,7 +7,7 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 ---
 
-## 🚀 Tech Stack  
+## 🛠 Tech Stack  
 
 ### 🔹 Languages & Core  
 | Python | JavaScript | HTML5 | CSS3 | SQL |
@@ -27,19 +27,6 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 | PostgreSQL | Redis | SQLite | Docker | Git |
 |------------|-------|--------|--------|-----|
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> |
-
----
-
-## 🚀 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/VishnuCheruvakkara/Cycular">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuCheruvakkara&repo=Cycular&theme=default" />
-  </a>
-  <a href="https://github.com/VishnuCheruvakkara/ChatUp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=VishnuCheruvakkara&repo=ChatUp&theme=default" />
-  </a>
-</p>
 
 ---
 
