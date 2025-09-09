@@ -51,4 +51,4 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 ---
 
-⭐ *"Every bug is an opportunity to learn and build something smarter!"*  
+⭐ *"Don’t wait for the complete idea. Begin with what you have, the rest will follow, and you’ll create something extraordinary."*  
