@@ -1,9 +1,26 @@
-# Hello world!, I'm Vishnu Cheruvakkara  
+# 👋 Hello world!, I'm Vishnu Cheruvakkara  
 
 💻 **Full Stack Developer | Python & Django Specialist | API Enthusiast**  
 
 I’m a passionate **Python Django Full Stack Developer** with hands-on experience in building scalable, secure, and production-ready web applications.  
 I focus on **clean backend architectures, interactive frontends, and smooth deployments**.  
+
+---
+
+<p align="center">
+  <a href="https://linkedin.com/in/your-linkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/your-instagram" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/your-youtube" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="mailto:vishnu@example.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
