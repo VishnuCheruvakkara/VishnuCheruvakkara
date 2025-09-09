@@ -29,14 +29,17 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50"/> | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/> |
 
 ---
-
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VishnuCheruvakkara&show_icons=true&theme=default" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuCheruvakkara&layout=compact&theme=default" alt="Top Languages" height="160"/>
-  <img src="https://streak-stats.demolab.com/?user=VishnuCheruvakkara&theme=default&border_radius=5" alt="GitHub Streak" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=VishnuCheruvakkara&show_icons=true&theme=default" 
+       alt="GitHub Stats" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuCheruvakkara&layout=compact&theme=default" 
+       alt="Top Languages" height="140"/>
+  <img src="https://streak-stats.demolab.com/?user=VishnuCheruvakkara&theme=default&border_radius=5" 
+       alt="GitHub Streak" height="140"/>
 </p>
+
 
 ---
 
