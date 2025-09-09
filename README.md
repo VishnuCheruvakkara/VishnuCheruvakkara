@@ -8,7 +8,7 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/posts/vishnu-cheruvakkara-231b8b235_django-reactjs-webdevelopment-activity-7363606238938484736-sult?utm_source=share&utm_medium=member_desktop&rcm=ACoAADq6p4UB7yZEvBWQ6nbkRJlURS5jqlFv_yI" target="_blank">
+  <a href="https://www.linkedin.com/posts/vishnu-cheruvakkara" target="_blank">
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
   <a href="https://instagram.com/your-instagram" target="_blank">
