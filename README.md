@@ -1,4 +1,4 @@
-# Hello world!, I'm Vishnu Cheruvakkara  
+# Hello world!, I'm Vishnu C
 
 💻 **Full Stack Developer | Python & Django Specialist | API Enthusiast**  
 
