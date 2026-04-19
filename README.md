@@ -8,7 +8,7 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 ---
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-cheruvakkara-231b8b235/" target="_blank">
+  <a href="https://www.linkedin.com/in/vishnu-c-231b8b235/" target="_blank">
     <img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=logmein&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/vishnu_c_dev/" target="_blank">
