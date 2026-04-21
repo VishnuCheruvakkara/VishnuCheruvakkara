@@ -65,10 +65,9 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 ## 📫 Connect with Me  
 
-| LinkedIn | Email | Portfolio | LeetCode |
-|----------|-------|-----------|----------|
-| <a href="https://www.linkedin.com/in/vishnu-c-231b8b235/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://vishnu-cheruvakkara-portfolio.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> | <a href="https://leetcode.com/u/VishnuCheruvakkara/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/></a> |
-
+| LinkedIn | Email | Portfolio 1 | Portfolio 2 | LeetCode |
+|----------|-------|-------------|-------------|----------|
+| <a href="https://www.linkedin.com/in/vishnu-c-231b8b235/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://vishnu-cheruvakkara-portfolio.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> | <a href="https://v2-app.brototype.com/portfolio?id=14cd2a09-d8ee-4fb7-8a19-ab1533cad6cd"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> | <a href="https://leetcode.com/u/VishnuCheruvakkara/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/></a> |
 ---
 
 ⭐ *"Don’t wait for the complete idea. Begin with what you have, the rest will follow, and you’ll create something extraordinary."*  
