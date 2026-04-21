@@ -20,6 +20,9 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
   <a href="mailto:vishnucheruvakkaraofficial@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://leetcode.com/u/VishnuCheruvakkara/" target="_blank">
+  <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />
+</a>
 </p>
 
 ---
@@ -62,9 +65,9 @@ I focus on **clean backend architectures, interactive frontends, and smooth depl
 
 ## 📫 Connect with Me  
 
-| LinkedIn | Email | Portfolio |
-|----------|-------|-----------|
-| <a href="https://www.linkedin.com/in/vishnu-c-231b8b235/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://vishnu-cheruvakkara-portfolio.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> |
+| LinkedIn | Email | Portfolio | LeetCode |
+|----------|-------|-----------|----------|
+| <a href="https://www.linkedin.com/in/vishnu-c-231b8b235/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50"/></a> | <a href="mailto:vishnucheruvakkaraofficial@gmail.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50"/></a> | <a href="https://vishnu-cheruvakkara-portfolio.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/></a> | <a href="https://leetcode.com/u/VishnuCheruvakkara/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" width="50"/></a> |
 
 ---
 
