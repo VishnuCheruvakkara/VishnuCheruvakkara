@@ -45,17 +45,13 @@ I'm a **Full Stack Software Developer** who enjoys turning complex problems into
 
 ### 🚀 Featured projects
 
-<div align="center">
-  <a href="https://github.com/VishnuCheruvakkara/VideoCallApp"><img src="https://img.shields.io/badge/VideoCallApp-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="VideoCallApp project" /></a>
-  &nbsp;
-  <a href="https://github.com/VishnuCheruvakkara/ERPExalore"><img src="https://img.shields.io/badge/ERPExalore-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="ERPExalore project" /></a>
-  &nbsp;
-  <a href="https://github.com/VishnuCheruvakkara/MOOC-Sphere"><img src="https://img.shields.io/badge/MOOC--Sphere-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="MOOC-Sphere project" /></a>
-  &nbsp;
-  <a href="https://github.com/VishnuCheruvakkara/Content-Hive"><img src="https://img.shields.io/badge/Content--Hive-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Content-Hive project" /></a>
-  &nbsp;
-  <a href="https://github.com/VishnuCheruvakkara/OCPP-Simulator"><img src="https://img.shields.io/badge/OCPP--Simulator-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="OCPP-Simulator project" /></a>
-</div>
+| Project | What it focuses on | Repository |
+| :--- | :--- | :---: |
+| **🎥 VideoCallApp** | Video-calling application and frontend experience | [View code ↗](https://github.com/VishnuCheruvakkara/VideoCallApp) |
+| **🧩 ERPExalore** | ERP application features and business workflows | [View code ↗](https://github.com/VishnuCheruvakkara/ERPExalore) |
+| **🎓 MOOC-Sphere** | Online learning platform and course management | [View code ↗](https://github.com/VishnuCheruvakkara/MOOC-Sphere) |
+| **✍️ Content-Hive** | Content management and authentication features | [View code ↗](https://github.com/VishnuCheruvakkara/Content-Hive) |
+| **⚡ OCPP-Simulator** | OCPP simulation and heartbeat functionality | [View code ↗](https://github.com/VishnuCheruvakkara/OCPP-Simulator) |
 
 ### 📈 GitHub activity & contributions
 
@@ -67,10 +63,6 @@ I'm a **Full Stack Software Developer** who enjoys turning complex problems into
 </a>
 
 <img width="75%" src="https://streak-stats.demolab.com?user=VishnuCheruvakkara&hide_border=true&background=00000000&ring=0EA5E9&fire=F59E0B&currStreakLabel=0284C7&sideLabels=64748B&dates=64748B" alt="GitHub contribution streak" />
-
-**Contribution activity**
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=VishnuCheruvakkara&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
 
 <a href="https://github.com/VishnuCheruvakkara?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%8F%85_GitHub_Achievements-Pull_Shark_%26_More-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements including Pull Shark" /></a>
 
