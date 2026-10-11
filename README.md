@@ -45,15 +45,77 @@ I'm a **Full Stack Software Developer** who enjoys turning complex problems into
 
 ### 🚀 Featured projects
 
-**Selected work** — a look at the applications and systems I have developed.
+A selection of my public work, from community platforms to developer-focused applications.
 
-| Project | Focus area | Explore |
-| :--- | :--- | :---: |
-| 🎥 **VideoCallApp** | Video calling · Frontend experience | <a href="https://github.com/VishnuCheruvakkara/VideoCallApp"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View VideoCallApp repository" /></a> |
-| 🧩 **ERPExalore** | ERP systems · Business workflows | <a href="https://github.com/VishnuCheruvakkara/ERPExalore"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View ERPExalore repository" /></a> |
-| 🎓 **MOOC-Sphere** | Online learning · Courses & authentication | <a href="https://github.com/VishnuCheruvakkara/MOOC-Sphere"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View MOOC-Sphere repository" /></a> |
-| ✍️ **Content-Hive** | Content management · Authentication | <a href="https://github.com/VishnuCheruvakkara/Content-Hive"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View Content-Hive repository" /></a> |
-| ⚡ **OCPP-Simulator** | OCPP simulation · Heartbeat functionality | <a href="https://github.com/VishnuCheruvakkara/OCPP-Simulator"><img src="https://img.shields.io/badge/View_Project-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="View OCPP-Simulator repository" /></a> |
+<table width="100%">
+<thead>
+<tr>
+<th width="27%" align="left">Project</th>
+<th width="43%" align="left">Focus area</th>
+<th width="30%" align="center">Explore</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td width="27%"><strong>🌾 AgriFlow</strong></td>
+<td width="43%">Farmer community · Real-time chat · Events · Marketplace</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/AgriFlow-Community-web-app"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for AgriFlow-Community-web-app" /></a>
+<br/>
+<a href="https://agriflow.space"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo for AgriFlow-Community-web-app" /></a>
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>🚲 Cycular E-commerce</strong></td>
+<td width="43%">Online bicycle store · Payments · Orders · Admin dashboard</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/Cycular-E-com"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for Cycular-E-com" /></a>
+<br/>
+<a href="https://cycular.agriflow.space"><img src="https://img.shields.io/badge/Live_Demo-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Live demo for Cycular-E-com" /></a>
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>🎥 VideoCallApp</strong></td>
+<td width="43%">Video calling · Frontend experience</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/VideoCallApp"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for VideoCallApp" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>🧩 ERPExalore</strong></td>
+<td width="43%">ERP systems · Business workflows</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/ERPExalore"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for ERPExalore" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>🎓 MOOC-Sphere</strong></td>
+<td width="43%">Online learning · Courses & authentication</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/MOOC-Sphere"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for MOOC-Sphere" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>✍️ Content-Hive</strong></td>
+<td width="43%">Content management · Authentication</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/Content-Hive"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for Content-Hive" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="27%"><strong>⚡ OCPP-Simulator</strong></td>
+<td width="43%">OCPP simulation · Heartbeat functionality</td>
+<td width="30%" align="center">
+<a href="https://github.com/VishnuCheruvakkara/OCPP-Simulator"><img src="https://img.shields.io/badge/Source_Code-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Source code for OCPP-Simulator" /></a>
+
+</td>
+</tr>
+</tbody>
+</table>
 
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=0284C7&center=true&vCenter=true&width=650&height=35&lines=Build+%E2%86%92+Test+%E2%86%92+Learn+%E2%86%92+Improve;Curiosity+drives+better+engineering" alt="Animated developer mindset" />
