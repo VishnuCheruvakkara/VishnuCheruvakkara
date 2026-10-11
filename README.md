@@ -19,7 +19,7 @@
 
 I'm a **Full Stack Software Developer** who enjoys turning complex problems into reliable, maintainable software. My core stack is **Python, Django, React, and PostgreSQL**, with a focus on secure APIs, robust backend systems, and intuitive user experiences.
 
-- 💼 **Junior Software Developer — IIT Madras, Academic Services Unit**
+- 💼 **Software Developer — IIT Madras, Academic Services Unit**
 - 🔐 Work areas: authentication, session management, role-based access, debugging, and API integrations
 - ⚙️ Engineering interests: software architecture, performance, automated testing, security, and DevOps
 - 📖 Currently strengthening my foundations in **DSA, computer science, and systems programming**
