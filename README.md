@@ -45,44 +45,17 @@ I'm a **Full Stack Software Developer** who enjoys turning complex problems into
 
 ### 🚀 Featured projects
 
-A selection of my public repositories. Explore each one for source code, development history, and implementation details.
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎥 [VideoCallApp](https://github.com/VishnuCheruvakkara/VideoCallApp)
-Video-calling application development, with ongoing improvements to the frontend experience.
-
-<a href="https://github.com/VishnuCheruvakkara/VideoCallApp"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="VideoCallApp repository" /></a>
-</td>
-<td width="50%" valign="top">
-
-#### 🧩 [ERPExalore](https://github.com/VishnuCheruvakkara/ERPExalore)
-ERP application development covering business features and workflows.
-
-<a href="https://github.com/VishnuCheruvakkara/ERPExalore"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="ERPExalore repository" /></a>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-#### 🎓 [MOOC-Sphere](https://github.com/VishnuCheruvakkara/MOOC-Sphere)
-Online learning platform with course and authentication features.
-
-<a href="https://github.com/VishnuCheruvakkara/MOOC-Sphere"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="MOOC-Sphere repository" /></a>
-</td>
-<td width="50%" valign="top">
-
-#### ✍️ [Content-Hive](https://github.com/VishnuCheruvakkara/Content-Hive)
-Content-focused application featuring authentication and administration.
-
-<a href="https://github.com/VishnuCheruvakkara/Content-Hive"><img src="https://img.shields.io/badge/View_Repository-181717?style=flat-square&logo=github&logoColor=white" alt="Content-Hive repository" /></a>
-</td>
-</tr>
-</table>
-
-**Also building:** ⚡ [OCPP-Simulator](https://github.com/VishnuCheruvakkara/OCPP-Simulator) — OCPP simulation and heartbeat functionality.
+<div align="center">
+  <a href="https://github.com/VishnuCheruvakkara/VideoCallApp"><img src="https://img.shields.io/badge/VideoCallApp-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="VideoCallApp project" /></a>
+  &nbsp;
+  <a href="https://github.com/VishnuCheruvakkara/ERPExalore"><img src="https://img.shields.io/badge/ERPExalore-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="ERPExalore project" /></a>
+  &nbsp;
+  <a href="https://github.com/VishnuCheruvakkara/MOOC-Sphere"><img src="https://img.shields.io/badge/MOOC--Sphere-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="MOOC-Sphere project" /></a>
+  &nbsp;
+  <a href="https://github.com/VishnuCheruvakkara/Content-Hive"><img src="https://img.shields.io/badge/Content--Hive-1D4ED8?style=for-the-badge&logo=github&logoColor=white" alt="Content-Hive project" /></a>
+  &nbsp;
+  <a href="https://github.com/VishnuCheruvakkara/OCPP-Simulator"><img src="https://img.shields.io/badge/OCPP--Simulator-0F172A?style=for-the-badge&logo=github&logoColor=white" alt="OCPP-Simulator project" /></a>
+</div>
 
 ### 📈 GitHub activity & contributions
 
