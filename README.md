@@ -117,31 +117,52 @@ A selection of my public work, from community platforms to developer-focused app
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=15&duration=2800&pause=1000&color=0284C7&center=true&vCenter=true&width=650&height=35&lines=Build+%E2%86%92+Test+%E2%86%92+Learn+%E2%86%92+Improve;Curiosity+drives+better+engineering" alt="Animated developer mindset" />
 </div>
 
-### 📊 GitHub stats & milestones
+
+### 📊 GitHub Stats & Milestones
 
 <div align="center">
 
-<a href="https://github.com/VishnuCheruvakkara">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=VishnuCheruvakkara&show_icons=true&include_all_commits=true&hide_border=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=VishnuCheruvakkara&show_icons=true&include_all_commits=true&hide_border=true&theme=default" alt="Vishnu's GitHub statistics" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuCheruvakkara&layout=compact&langs_count=8&hide_border=true&theme=github_dark" />
-  <img width="43%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishnuCheruvakkara&layout=compact&langs_count=8&hide_border=true&theme=default" alt="Most-used languages in public repositories" />
-</picture>
+<h3>⚡ GitHub Overview</h3>
+
+<img
+  width="460"
+  src="https://YOUR-DEPLOYMENT.vercel.app/api?username=VishnuCheruvakkara&show_icons=true&theme=github_dark&hide_border=true"
+  alt="GitHub Overview"
+/>
+
+<br/><br/>
+
+<h3>💻 Most Used Languages</h3>
+
+<img
+  width="400"
+  src="https://YOUR-DEPLOYMENT.vercel.app/api/top-langs/?username=VishnuCheruvakkara&layout=compact&langs_count=8&theme=github_dark&hide_border=true"
+  alt="Most Used Languages"
+/>
+
+<br/><br/>
+
+<h3>🔥 Contribution Streak</h3>
+
+<img
+  width="520"
+  src="https://streak-stats.demolab.com?user=VishnuCheruvakkara&theme=github-dark-blue&hide_border=true"
+  alt="Contribution Streak"
+/>
+
+<br/><br/>
+
+<h3>🏆 GitHub Achievements</h3>
+
+<a href="https://github.com/VishnuCheruvakkara?tab=achievements">
+  <img
+    src="https://img.shields.io/badge/View_GitHub_Achievements-2563EB?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Achievements"
+  />
 </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=VishnuCheruvakkara&theme=github-dark-blue&hide_border=true&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=E2E8F0&dates=B6C2CF" />
-  <img width="75%" src="https://streak-stats.demolab.com?user=VishnuCheruvakkara&theme=default&hide_border=true&ring=1F6FEB&fire=F59E0B&currStreakNum=111827&sideNums=111827&currStreakLabel=1D4ED8&sideLabels=334155&dates=475569" alt="GitHub contribution streak, with legible text in light and dark mode" />
-</picture>
-
-<a href="https://github.com/VishnuCheruvakkara?tab=achievements"><img src="https://img.shields.io/badge/%F0%9F%8F%85_GitHub_Achievements-Pull_Shark_%26_More-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View GitHub achievements including Pull Shark" /></a>
 
 </div>
 
-<sub>Statistics are supplied by third-party services and may occasionally be unavailable or omit private activity.</sub>
 
 ### 🌐 Let’s connect
 
