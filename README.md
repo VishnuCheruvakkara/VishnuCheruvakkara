@@ -1,5 +1,4 @@
 <div align="center">
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0F172A,45:1D4ED8,100:06B6D4&text=Vishnu%20Cheruvakkara&fontColor=FFFFFF&fontSize=42&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Software%20Developer&descAlignY=60&descSize=18" alt="Vishnu Cheruvakkara — Full Stack Software Developer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=1100&color=38BDF8&center=true&vCenter=true&width=720&height=45&lines=Python+%26+Django+%7C+React+%7C+PostgreSQL;Building+Reliable+APIs+%26+Web+Experiences;Always+Learning.+Always+Building." alt="Animated introduction" />
